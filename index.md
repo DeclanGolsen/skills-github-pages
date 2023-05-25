@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: "Declan's Data Analysis and Visualization"
+author: "Declan Golsen"
 ---
 
+Hello world.
